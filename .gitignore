@@ -1,0 +1,8 @@
+# Folder .idea
+.idea/
+
+# Folder .target
+.target/
+
+# Folder .properties
+./src/main/resources
